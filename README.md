@@ -40,7 +40,7 @@ console.log(newElem);
 RESULT:
 ```html
 <div id="example-2">
-	<div>
+	<div class="example-1">
 		<span>Auto script!</span>
 	</div>
 </div>
